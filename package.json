@@ -39,6 +39,6 @@
   },
   "homepage": "https://github.com/IBM/ibm-garage-tekton-tasks#readme",
   "dependencies": {
-    "release-it": "^13.5.2"
+    "release-it": "^13.7.2"
   }
 }
